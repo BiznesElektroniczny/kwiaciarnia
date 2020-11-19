@@ -1,0 +1,42 @@
+[ {
+  "groupId" : 1,
+  "groupName" : "Bukiet mały, Bukiet średni, Bukiet duży, Bukiet deluxe",
+  "attributes" : {
+    "1" : "Bukiet mały",
+    "2" : "Bukiet średni",
+    "3" : "Bukiet duży",
+    "4" : "Bukiet deluxe"
+  }
+}, {
+  "groupId" : 2,
+  "groupName" : "40-50cm, 60-70cm, 80-90cm",
+  "attributes" : {
+    "5" : "40-50cm",
+    "6" : "60-70cm",
+    "7" : "80-90cm"
+  }
+}, {
+  "groupId" : 3,
+  "groupName" : "Bukiet mały, Bukiet średni, Bukiet duży",
+  "attributes" : {
+    "8" : "Bukiet mały",
+    "9" : "Bukiet średni",
+    "10" : "Bukiet duży"
+  }
+}, {
+  "groupId" : 4,
+  "groupName" : "Duży, Deluxe",
+  "attributes" : {
+    "11" : "Duży",
+    "12" : "Deluxe"
+  }
+}, {
+  "groupId" : 5,
+  "groupName" : "Wiązanka mała, Wiązanka średnia, Wiązanka duża, Wiązanka deluxe",
+  "attributes" : {
+    "13" : "Wiązanka mała",
+    "14" : "Wiązanka średnia",
+    "15" : "Wiązanka duża",
+    "16" : "Wiązanka deluxe"
+  }
+} ]
