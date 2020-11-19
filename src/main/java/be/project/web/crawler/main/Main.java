@@ -88,8 +88,6 @@ public class Main {
             
             //products.stream().map(Product::getUrlProdName).forEach(System.out::println);
             final ListOfProductsFilter filter = new ListOfProductsFilter(products);
-            //final List<Product> byCategoryId = filter.getByCategoryId(0);
-            //System.out.println("Unique field: " + filter.isFieldUnique(Product::getCatalogNum));
             //System.out.println();
             //List<Product> reducedPrice = filter.reducedPrice();
             //filter.openInBrowser(reducedPrice);
