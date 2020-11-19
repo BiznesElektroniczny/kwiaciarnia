@@ -91,8 +91,8 @@ public class Main {
             //final List<Product> byCategoryId = filter.getByCategoryId(0);
             //System.out.println("Unique field: " + filter.isFieldUnique(Product::getCatalogNum));
             //System.out.println();
-            List<Product> reducedPrice = filter.reducedPrice();
-            filter.openInBrowser(reducedPrice);
+            //List<Product> reducedPrice = filter.reducedPrice();
+            //filter.openInBrowser(reducedPrice);
         }
 
         final long end = System.currentTimeMillis();
